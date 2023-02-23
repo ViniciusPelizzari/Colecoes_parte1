@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 /**
- * @apiNote_Vinícius_Pelizzari
+ * @author_Vinícius_Pelizzari
  */
 public class LendoOrdenando {
 
